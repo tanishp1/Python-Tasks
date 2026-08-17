@@ -1,0 +1,4 @@
+
+HKEY_CURRENT_USER\Environment
+    PATH    REG_SZ    C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\8.2\bin;C:\Program Files\Redis;C:\Program Files\Docker\Docker\resources\bin;C:\Users\pawar\.local\bin;C:\Users\pawar\AppData\Local\Microsoft\WindowsApps;C:\Users\pawar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\pawar\AppData\Roaming\npm;C:\Users\pawar\AppData\Local\Python\pythoncore-3.14-64;C:\Users\pawar\AppData\Local\Python\bin
+
