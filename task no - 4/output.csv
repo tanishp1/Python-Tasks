@@ -1,0 +1,6 @@
+Region , Total_Revenue, Average_Order_Value, Order_Count
+North  ,        4260.0,              1065.0,           4
+South  ,        3800.5,               760.1,           5
+West   ,        3090.0,               772.5,           4
+East   ,        2920.0,               496.0,           5
+Unknown,         150.0,               150.0,           1
