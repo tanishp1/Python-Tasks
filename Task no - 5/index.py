@@ -1,7 +1,6 @@
 import time
 import functools
 
-
 def execution_logger(func):
     """Decorator that logs how long the wrapped function took to run."""
     @functools.wraps(func)  # preserves __name__, __doc__, __module__, etc.
