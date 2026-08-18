@@ -1,0 +1,20 @@
+2024-01-15 10:00:01 INFO  Application started successfully
+2024-01-15 10:00:05 INFO  Loading configuration from config.yaml
+2024-01-15 10:01:12 ERROR Failed to connect to database: connection reset by peer
+2024-01-15 10:01:13 ERROR Retrying database connection (attempt 1/3)
+2024-01-15 10:01:15 ERROR Retrying database connection (attempt 2/3)
+2024-01-15 10:01:18 INFO  Database connection established
+2024-01-15 10:02:00 INFO  Processing batch job #1042
+2024-01-15 10:02:45 WARNING Disk usage above 80% threshold
+2024-01-15 10:03:10 ERROR Null pointer exception in module payments.py line 204
+2024-01-15 10:03:11 INFO  Rollback triggered for transaction #8821
+2024-01-15 10:04:00 INFO  Batch job #1042 completed in 120s
+2024-01-15 10:05:00 ERROR Timeout waiting for response from payment gateway
+2024-01-15 10:05:01 ERROR Payment gateway error: connection reset
+2024-01-15 10:06:00 INFO  Retrying payment for order #5521
+2024-01-15 10:07:00 INFO  Payment processed successfully for order #5521
+2024-01-15 10:08:00 WARNING Memory usage at 75%
+2024-01-15 10:09:00 ERROR Unhandled exception in worker thread: IndexError
+2024-01-15 10:09:01 INFO  Worker thread restarted
+2024-01-15 10:10:00 INFO  Scheduled maintenance check passed
+2024-01-15 10:11:00 ERROR Disk write failed: no space left on device
